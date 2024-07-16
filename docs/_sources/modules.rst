@@ -1,5 +1,5 @@
-RAC Insurance Python Package
-============================
+raci package
+============
 
 .. toctree::
    :maxdepth: 4

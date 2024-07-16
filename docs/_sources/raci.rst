@@ -9,6 +9,7 @@ Subpackages
 
    raci.core
    raci.data
+   raci.mpp
 
 Module contents
 ---------------
